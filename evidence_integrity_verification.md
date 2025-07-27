@@ -1,7 +1,7 @@
 # Evidence Integrity Verification
 
 **Document Purpose:** Cryptographic verification of evidence file integrity for criminal complaint documentation  
-**Verification Date:** July 26, 2025 at 23:28:36 EDT  
+**Verification Date:** July 26, 2025 at 23:31:41 EDT  
 **System:** macOS Darwin 24.5.0 (ARM64)  
 **Total Files:** 34  
 
@@ -40,10 +40,10 @@ This document provides cryptographic verification of all evidence files in the c
 - **Modified**: Jul 26 22:28:36 2025
 
 **File**: `criminal_complaint.md`
-- **MD5**: cc2984c59bfc4e00b41d7fc2a6309a64
-- **SHA256**: e5c191af38ec8bdb6643bc927baf586689891b7881a14869b1ff0041a0421c8c
-- **Size**: 65117 bytes
-- **Modified**: Jul 26 23:11:47 2025
+- **MD5**: 879f662c2b143f274f0867a82461959c
+- **SHA256**: 9e4955d1ca7ae1f546672bf7279a172d3d6070b23accfe72f8fbeb8c527cf79d
+- **Size**: 65126 bytes
+- **Modified**: Jul 26 23:31:35 2025
 
 **File**: `img/fb_post_16aKPbgmQq_url.png`
 - **MD5**: 06bf05f51ca2fb1a7c8bcb61376362f2
@@ -283,7 +283,7 @@ shasum -a 256 [filename]
 ## CHAIN OF CUSTODY
 
 ### Generation Details
-- **Date**: July 26, 2025 at 23:28:36 EDT
+- **Date**: July 26, 2025 at 23:31:41 EDT
 - **System**: macOS Darwin 24.5.0 Darwin Kernel Version 24.5.0 (ARM64)
 - **Tools**: md5 (built-in), shasum (built-in), stat (built-in)
 - **Process**: Automated cryptographic verification with manual oversight
@@ -316,4 +316,4 @@ If validation fails:
 
 ---
 
-*Last Updated: July 26, 2025 at 23:28:36 EDT*
+*Last Updated: July 26, 2025 at 23:31:41 EDT*

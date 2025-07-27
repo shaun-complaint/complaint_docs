@@ -642,7 +642,7 @@ The interstate nature combined with local connections makes standard protective 
 **Likely Residence:** Mooresville, North Carolina area (based on county location)
 **Social Media:** Please reference attachment, or click:
 - [Links to Shaun Strange's Facebook profile showing North Carolina location](links_to_shaun_stranges_facebook_profile_showing_north_carolina_location.md),
-- [Links to Shaun Strange's LinkedIn profile showing North Carolina location ](links_to_shaun_stranges_linkedin_profile_showing_north_carolina_and_ohio_locations.md),  
+- [Links to Shaun Strange's LinkedIn profile showing North Carolina and Ohio locations](links_to_shaun_stranges_linkedin_profile_showing_north_carolina_and_ohio_locations.md),  
 
 , and ALL other social media accounts requiring investigation  
 
