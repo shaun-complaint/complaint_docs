@@ -157,17 +157,21 @@ Before printing or sharing any documents, use find/replace to substitute these k
 
 ### Usage Instructions
 
-**Before Final Submission:**
-1. Use global find/replace to convert all keys to `[redacted]`
-2. Verify no actual personal information remains exposed
-3. Maintain professional appearance for law enforcement review
+**FOR LAW ENFORCEMENT SUBMISSION:**
+Before generating final PDFs or legal documents, use global find/replace to substitute redaction keys with **ACTUAL PERSONAL INFORMATION**:
 
-**Example Conversion:**
+**Required Substitutions Example:**
 ```
-[COMPLAINANT_FULL_NAME] → [redacted]
-[COMPLAINANT_PHONE] → [redacted]
-[HOME_ADDRESS] → [redacted]
+[COMPLAINANT_FULL_NAME] → John Doe Smith (actual legal name)
+[COMPLAINANT_PHONE] → (555) 123-4567 (actual phone number)
+[HOME_ADDRESS] → 123 Main Street, City, State 12345 (actual address)
+[COMPLAINANT_EMAIL] → john.smith@email.com (actual email)
 ```
+
+**⚠️ CRITICAL SECURITY:** 
+- **For Legal Filing:** Use ACTUAL personal information (names, addresses, phone numbers)
+- **For Public Repository:** Keep redaction keys as-is to protect PII
+- Given the harassment and intimidation in this case, exposing complainant information publicly would create serious safety risks
 
 ## Important Note
 

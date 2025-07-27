@@ -1,7 +1,7 @@
 # Evidence Integrity Verification
 
 **Document Purpose:** Cryptographic verification of evidence file integrity for criminal complaint documentation  
-**Verification Date:** July 26, 2025 at 23:11:55 EDT  
+**Verification Date:** July 26, 2025 at 23:19:38 EDT  
 **System:** macOS Darwin 24.5.0 (ARM64)  
 **Total Files:** 34  
 
@@ -28,10 +28,10 @@ This document provides cryptographic verification of all evidence files in the c
 ## CRYPTOGRAPHIC VERIFICATION RESULTS
 
 **File**: `README.md`
-- **MD5**: fb735bdb3937926b2143efacf94ba645
-- **SHA256**: 3f01db6a2f1d49c58aa80d6788f786ca049187197a90365feed426b859cf557d
-- **Size**: 9280 bytes
-- **Modified**: Jul 26 23:10:56 2025
+- **MD5**: eaec3b481c9fd7bc3700b0ffa642c717
+- **SHA256**: 660147916210cae955301e3fcb55ec185d3ec4379a1b2140ee9a202110dc6ab9
+- **Size**: 9729 bytes
+- **Modified**: Jul 26 23:18:53 2025
 
 **File**: `comprehensive_timeline_criminal_conduct.md`
 - **MD5**: c459e0ae77e9e5821c1eaee347ee1b39
@@ -241,7 +241,7 @@ To independently verify evidence integrity:
 
 ```bash
 # Navigate to evidence directory
-cd /path/to/complaint_docs
+cd /path/to/criminal_complaint_vs_shaun_strange
 
 # Run validation script
 ./scripts/validate_checksums.sh
@@ -283,7 +283,7 @@ shasum -a 256 [filename]
 ## CHAIN OF CUSTODY
 
 ### Generation Details
-- **Date**: July 26, 2025 at 23:11:55 EDT
+- **Date**: July 26, 2025 at 23:19:38 EDT
 - **System**: macOS Darwin 24.5.0 Darwin Kernel Version 24.5.0 (ARM64)
 - **Tools**: md5 (built-in), shasum (built-in), stat (built-in)
 - **Process**: Automated cryptographic verification with manual oversight
@@ -316,4 +316,4 @@ If validation fails:
 
 ---
 
-*Last Updated: July 26, 2025 at 23:11:55 EDT*
+*Last Updated: July 26, 2025 at 23:19:38 EDT*
