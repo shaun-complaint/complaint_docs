@@ -131,12 +131,12 @@ cat scripts/README.md
 Before printing or sharing any documents, use find/replace to substitute these keys with actual redacted values `[redacted]`:
 
 #### Complainant Information
-- `[COMPLAINANT_FULL_NAME]` → Full legal name
+- `Joshua J. Thomas` → Full legal name
 - `[COMPLAINANT_FIRST_NAME]` → First name only
 - `[COMPLAINANT_FIRST_POSSESSIVE]` → First name possessive (e.g., "Josh's")
-- `[COMPLAINANT_ADDRESS]` → Complete address
-- `[COMPLAINANT_PHONE]` → Phone number
-- `[COMPLAINANT_EMAIL]` → Email address
+- `1520 McKinney Ln. Pataskala, OH 43062` → Complete address
+- `614-206-4906` → Phone number
+- `josh@tertiaryit.com` → Email address
 
 #### Family/Associate Information  
 - `[SPOUSE_NAME]` → Spouse's name
@@ -162,10 +162,10 @@ Before generating final PDFs or legal documents, use global find/replace to subs
 
 **Required Substitutions Example:**
 ```
-[COMPLAINANT_FULL_NAME] → John Doe Smith (actual legal name)
-[COMPLAINANT_PHONE] → (555) 123-4567 (actual phone number)
+Joshua J. Thomas → John Doe Smith (actual legal name)
+614-206-4906 → (555) 123-4567 (actual phone number)
 [HOME_ADDRESS] → 123 Main Street, City, State 12345 (actual address)
-[COMPLAINANT_EMAIL] → john.smith@email.com (actual email)
+josh@tertiaryit.com → john.smith@email.com (actual email)
 ```
 
 **⚠️ CRITICAL SECURITY:** 

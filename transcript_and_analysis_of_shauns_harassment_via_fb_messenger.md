@@ -1,7 +1,7 @@
 # Transcript and Analysis of Shaun's Harassment via FB Messenger
 
 ### Preface: 
-This is my ([COMPLAINANT_FULL_NAME]) transcription of the chat log based on the preserved video recordings of the Facebook Messenger conversation. I have made every effort to ensure accuracy and completeness. With considerable diligence I have done my best to ensure no substantial difference between the transcript here and the original text as sent by Shaun and myself. The encrypted FB chats are otherwise difficult to export, and since blocking me after issuing threats of armed conflict at my house I am unable to attempt further extraction of the raw text.
+This is my (Joshua J. Thomas) transcription of the chat log based on the preserved video recordings of the Facebook Messenger conversation. I have made every effort to ensure accuracy and completeness. With considerable diligence I have done my best to ensure no substantial difference between the transcript here and the original text as sent by Shaun and myself. The encrypted FB chats are otherwise difficult to export, and since blocking me after issuing threats of armed conflict at my house I am unable to attempt further extraction of the raw text.
 
 | Date/Time, Speaker & Message Content | **Legal Analysis & Pattern Documentation** |
 |--------------------------------------|--------------------------------------------------------|

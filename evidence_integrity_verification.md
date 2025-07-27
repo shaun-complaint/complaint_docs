@@ -1,7 +1,7 @@
 # Evidence Integrity Verification
 
 **Document Purpose:** Cryptographic verification of evidence file integrity for criminal complaint documentation  
-**Verification Date:** July 26, 2025 at 23:31:41 EDT  
+**Verification Date:** July 26, 2025 at 23:54:34 EDT  
 **System:** macOS Darwin 24.5.0 (ARM64)  
 **Total Files:** 34  
 
@@ -28,10 +28,10 @@ This document provides cryptographic verification of all evidence files in the c
 ## CRYPTOGRAPHIC VERIFICATION RESULTS
 
 **File**: `README.md`
-- **MD5**: eaec3b481c9fd7bc3700b0ffa642c717
-- **SHA256**: 660147916210cae955301e3fcb55ec185d3ec4379a1b2140ee9a202110dc6ab9
-- **Size**: 9729 bytes
-- **Modified**: Jul 26 23:18:53 2025
+- **MD5**: bd4bdec3f9aa3dabf4977231fb64524f
+- **SHA256**: fe5473f0b70a587a984d7377580e67e1e79ab918e0bcf0dfefe3d54653cf3c6f
+- **Size**: 9717 bytes
+- **Modified**: Jul 26 23:39:15 2025
 
 **File**: `comprehensive_timeline_criminal_conduct.md`
 - **MD5**: c459e0ae77e9e5821c1eaee347ee1b39
@@ -40,10 +40,10 @@ This document provides cryptographic verification of all evidence files in the c
 - **Modified**: Jul 26 22:28:36 2025
 
 **File**: `criminal_complaint.md`
-- **MD5**: 879f662c2b143f274f0867a82461959c
-- **SHA256**: 9e4955d1ca7ae1f546672bf7279a172d3d6070b23accfe72f8fbeb8c527cf79d
-- **Size**: 65126 bytes
-- **Modified**: Jul 26 23:31:35 2025
+- **MD5**: aeb5b62c4c7465ce08670b1834021a11
+- **SHA256**: 4599f9cf885a61af8872413dff28e2e3ac0b67c93d8a8440b2fb7ab0f0a87050
+- **Size**: 65190 bytes
+- **Modified**: Jul 26 23:54:16 2025
 
 **File**: `img/fb_post_16aKPbgmQq_url.png`
 - **MD5**: 06bf05f51ca2fb1a7c8bcb61376362f2
@@ -214,10 +214,10 @@ This document provides cryptographic verification of all evidence files in the c
 - **Modified**: Jul 26 22:34:36 2025
 
 **File**: `transcript_and_analysis_of_shauns_harassment_via_fb_messenger.md`
-- **MD5**: 7f40d29e579825d26e22331ef77b8590
-- **SHA256**: f27316a59b98e29e35045520987a08c82e5b0a173b276ce64430a0874baf257e
-- **Size**: 28791 bytes
-- **Modified**: Jul 26 21:26:22 2025
+- **MD5**: 8f3d9d34dfa39d7310753c1b91d4de64
+- **SHA256**: 5bc4dbff3727717e122b920764aee4b401cc46ead6dea31ee378a262f57cf43d
+- **Size**: 28784 bytes
+- **Modified**: Jul 26 23:37:23 2025
 
 **File**: `transcript_of_post_calling_to_stop_harassment.md`
 - **MD5**: f6bdbd05230a5d03c266b7285ad31a50
@@ -283,7 +283,7 @@ shasum -a 256 [filename]
 ## CHAIN OF CUSTODY
 
 ### Generation Details
-- **Date**: July 26, 2025 at 23:31:41 EDT
+- **Date**: July 26, 2025 at 23:54:34 EDT
 - **System**: macOS Darwin 24.5.0 Darwin Kernel Version 24.5.0 (ARM64)
 - **Tools**: md5 (built-in), shasum (built-in), stat (built-in)
 - **Process**: Automated cryptographic verification with manual oversight
@@ -316,4 +316,4 @@ If validation fails:
 
 ---
 
-*Last Updated: July 26, 2025 at 23:31:41 EDT*
+*Last Updated: July 26, 2025 at 23:54:34 EDT*

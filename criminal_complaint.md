@@ -3,10 +3,10 @@
 
 **TO:** Licking County Sheriff's Office, Pataskala Police Department, FBI Internet Crime Complaint Center (IC3), U.S. Attorney's Office Southern District of Ohio
 
-**FROM:** [COMPLAINANT_FULL_NAME]
-**ADDRESS:** [COMPLAINANT_ADDRESS]
-**PHONE:** [COMPLAINANT_PHONE]
-**EMAIL:** [COMPLAINANT_EMAIL]
+**FROM:** Joshua J. Thomas
+**ADDRESS:** 1520 McKinney Ln. Pataskala, OH 43062
+**PHONE:** 614-206-4906
+**EMAIL:** josh@tertiaryit.com
 **DATE:** July 26, 2025
 **RE:** Interstate Criminal Stalking, Harassment, and Suspected Criminal Conspiracy - Shaun Strange (Iredell County, North Carolina) and David Poindexter (CEO, nvisonative.com, Iredell County, North Carolina)
 
@@ -130,7 +130,7 @@ The interstate coordination to deprive constitutional rights provides probable c
 
 ### Comprehensive Timeline of Criminal Conduct:
 
-**DETAILED TIMELINE REFERENCE:** Complete chronological documentation with coordination analysis, escalation patterns, and investigation priorities is available in: **[Comprehensive Timeline of Criminal Conduct](comprehensive_timeline_criminal_conduct.md)**
+**DETAILED TIMELINE REFERENCE:** Complete chronological documentation with coordination analysis, escalation patterns, and requested investigation priorities the following referenced attachment, or click: **[Comprehensive Timeline of Criminal Conduct](comprehensive_timeline_criminal_conduct.md)**
 
 **KEY TIMELINE SUMMARY:**
 - **July 15, 2025 (11:01 AM & 12:23 PM):** Victim posts protected speech about wage theft to David Poindexter's Facebook timeline
@@ -319,7 +319,7 @@ I respectfully request immediate law enforcement action to:
 
 ## DETAILED EVIDENCE PRESERVED
 
-**EVIDENCE INTEGRITY VERIFICATION:** All evidence submitted with this complaint has been cryptographically verified for integrity and authenticity. Complete verification documentation including MD5/SHA256 hashes, file sizes, timestamps, and chain of custody information is available in: **[Evidence Integrity Verification Document](evidence_integrity_verification.md)**
+**EVIDENCE INTEGRITY VERIFICATION:** All evidence submitted with this complaint has been cryptographically verified for integrity and authenticity. Complete verification documentation including MD5/SHA256 hashes, file sizes, timestamps, and chain of custody information is available in the following referenced attachment, or click: **[Evidence Integrity Verification Document](evidence_integrity_verification.md)**
 
 **FOR LAW ENFORCEMENT DIGITAL FORENSICS:** This complete evidence package is available as a public Git repository for independent verification:
 
@@ -833,11 +833,11 @@ I respectfully request that law enforcement treat this as a high-priority case r
 ## CONTACT INFORMATION FOR IMMEDIATE LAW ENFORCEMENT RESPONSE
 
 **Victim Contact Information:**
-- **Name:** [COMPLAINANT_FULL_NAME]
-- **Address:** [COMPLAINANT_ADDRESS]
-- **Phone:** [COMPLAINANT_PHONE]  
-- **Email:** [COMPLAINANT_EMAIL]
-- **Emergency Contact:** [COMPLAINANT_PHONE]
+- **Name:** Joshua J. Thomas
+- **Address:** 1520 McKinney Ln. Pataskala, OH 43062
+- **Phone:** 614-206-4906  
+- **Email:** josh@tertiaryit.com
+- **Emergency Contact:** 614-206-4906
 
 **Key Evidence Locations:**
 - **Complete chat logs:** Available in multiple digital formats
@@ -902,14 +902,14 @@ This complaint is submitted with the understanding that providing false informat
  
 <br><br>
 **Signature & Date:** _________________________  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[COMPLAINANT_FULL_NAME]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joshua J. Thomas
 
 ---
 
 **ATTACHMENTS:**
-- **[Evidence Integrity Verification Document](evidence_integrity_verification.md)** - Cryptographic verification of all evidence
-- **[Comprehensive Timeline of Criminal Conduct](comprehensive_timeline_criminal_conduct.md)** - Complete chronological timeline with coordination analysis
-- **[Screenshot Metadata Forensic Analysis](screenshot_metadata_forensic_analysis.md)** - Forensic verification of visual evidence
+- [Evidence Integrity Verification Document](evidence_integrity_verification.md) - Cryptographic verification of all evidence
+- [Comprehensive Timeline of Criminal Conduct](comprehensive_timeline_criminal_conduct.md) - Complete chronological timeline with coordination analysis
+- [Screenshot Metadata Forensic Analysis](screenshot_metadata_forensic_analysis.md) - Forensic verification of visual evidence
 - [Links to Post Calling to Stop Harassment](links_of_post_calling_to_stop_harassment.md)
 - [Links to Shaun Strange's Facebook profile showing North Carolina location](links_to_shaun_stranges_facebook_profile_showing_north_carolina_location.md) 
 - [Links to Shaun Strange's LinkedIn profile showing North Carolina and Ohio locations](links_to_shaun_stranges_linkedin_profile_showing_north_carolina_and_ohio_locations.md)
