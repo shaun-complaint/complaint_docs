@@ -4,7 +4,8 @@
 
 **Current Version:** Amendment 1 (July 31, 2025)  
 **Evidence Integrity:** ✅ Cryptographically Verified  
-**Repository Structure:** Branch-based Amendment System
+**Repository Structure:** Branch-based Amendment System  
+**Public Repository:** https://github.com/shaun-complaint/complaint_docs
 
 ## Overview
 
@@ -73,6 +74,7 @@ Amendment Branch: enhancement/ada-violations-video-investigation
 - **[Criminal Complaint](criminal_complaint.md)** - Original interstate stalking complaint (July 26, 2025)
 
 **Amendment 1 - Federal Civil Rights Package:**
+- **[Filing Manifest](Amendment_1_Filing_Package/FILING_MANIFEST.md)** - Complete Amendment 1 filing guide with priorities and jurisdictions
 - **[Federal Criminal Complaint](Amendment_1_Filing_Package/01_Primary_Complaints/amended_criminal_complaint_with_mirroring_analysis.md)** - FBI/federal court filing
 - **[DOJ Civil Rights Complaint](Amendment_1_Filing_Package/01_Primary_Complaints/doj_civil_rights_complaint.md)** - Police misconduct & ADA violations  
 - **[Ohio Attorney General Complaint](Amendment_1_Filing_Package/01_Primary_Complaints/ohio_attorney_general_complaint.md)** - State oversight request

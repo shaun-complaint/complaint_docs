@@ -43,7 +43,7 @@
 ## 📁 02_SUPPORTING_EVIDENCE
 
 ### Primary Evidence Documents
-- **`../../transcript_and_analysis_of_shauns_harassment_via_fb_messenger.md`** - Complete harassment transcript
+- **`transcript_and_analysis_of_shauns_harassment_via_fb_messenger.md`** - Complete harassment transcript
   - 9.5-hour harassment timeline
   - Legal analysis of each message
   - Pattern escalation documentation
@@ -78,7 +78,7 @@
 ## 📁 04_DIGITAL_EVIDENCE
 
 ### Visual Evidence
-- **`../../photos/`** - Medical evidence photographs
+- **`photos/`** - Medical evidence photographs
   - `IMG_7033.jpeg` - Gout attack documentation
   - `IMG_7036.jpeg` - Stress-induced hives evidence
 
@@ -105,46 +105,12 @@
 
 ---
 
-## FILING PRIORITIES & JURISDICTIONS
-
-### 🔴 IMMEDIATE FILING (Emergency)
-1. **FBI Criminal Complaint** (`criminal_complaint.md`)
-   - Interstate stalking prosecution
-   - Firearm removal orders
-   - Emergency protection
-
-2. **DOJ Civil Rights** (`doj_civil_rights_complaint.md`)
-   - Pattern/practice investigation
-   - Federal oversight of local police
-   - ADA compliance review
-
-### 🟡 SECONDARY FILING (Within 48 Hours)
-3. **FBI Civil Rights** (`fbi_civil_rights_complaint.md`)
-   - Individual officer violations
-   - Constitutional enforcement
-
-4. **Ohio Attorney General** (`ohio_attorney_general_complaint.md`)
-   - State parallel proceedings
-   - Local oversight
-
-### 🟢 SUPPORTING SUBMISSIONS
-5. **Enhanced Analysis** (`amended_criminal_complaint_with_mirroring_analysis.md`)
-   - Legal strengthening document
-   - Detective assignment request
-
----
-
 ## AMENDMENT FRAMEWORK
 
 ### Amendment 1 (Current)
 - **Status:** Ready for initial filing
 - **Scope:** Complete criminal and civil rights package
 - **Timeline:** July 30, 2025
-
-### Future Amendments Structure
-- **Amendment 2:** Additional evidence/developments
-- **Amendment 3:** Response to initial investigations  
-- **Amendment 4:** Expanded charges/additional parties
 
 ---
 
