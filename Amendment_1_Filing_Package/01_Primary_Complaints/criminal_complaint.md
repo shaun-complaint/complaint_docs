@@ -1,13 +1,15 @@
 # FORMAL CRIMINAL COMPLAINT
 ## Interstate Stalking, Harassment, and Criminal Conspiracy via Electronic Communications
 
-**TO:** Licking County Sheriff's Office, Pataskala Police Department, FBI Internet Crime Complaint Center (IC3), U.S. Attorney's Office Southern District of Ohio
+**TO:** FBI Internet Crime Complaint Center (IC3), U.S. Attorney's Office Southern District of Ohio
+
+**NOTE:** Licking County Sheriff's Office declined to accept this complaint, citing jurisdictional issues and referring the matter to Pataskala Police Department. Given Pataskala PD's demonstrated bias and failure to investigate, federal intervention is necessary.
 
 **FROM:** [COMPLAINANT_FULL_NAME]
 **ADDRESS:** [COMPLAINANT_ADDRESS]
 **PHONE:** [COMPLAINANT_PHONE]
 **EMAIL:** [COMPLAINANT_EMAIL]
-**DATE:** July 26, 2025
+**DATE:** July 31, 2025
 **RE:** Interstate Criminal Stalking, Harassment, and Suspected Criminal Conspiracy - Shaun Strange (Iredell County, North Carolina) and David Poindexter (CEO, nvisonative.com, Iredell County, North Carolina)
 
 ---
@@ -16,11 +18,16 @@
 
 I am filing this formal criminal complaint against Shaun Strange, a resident of Iredell County, North Carolina, for interstate stalking, harassment, and making threats via electronic communications in violation of federal and state laws. I am also requesting investigation of suspected criminal conspiracy with David Poindexter (CEO of nvisonative.com) to intimidate, harass, and silence my legally protected speech regarding wage theft.
 
-on July 16, 2025 (per my recall), the suspect, Shaun (a North Carolina resident), initiated contact with me (an Ohio resident) via a Facebook friend request, which I accepted the next day on the 17th (per my recall).
+on July 16, 2025, the suspect, Shaun (a North Carolina resident), initiated contact with me (an Ohio resident) via a Facebook friend request, which I accepted the next day on July 17, 2025.
 
- Later (on July 18, 2025), Shaun began a sustained harassment campaign spanning nearly 10 hours, escalating to demands for my home address and explicit threats of physical and armed violence. Critically, Shaun then blocked me, an intentional act that removed my access to conversation history and notifications. Facebook advertises this before you do it. This served both to destroy evidence and perpetuate intimidation by ensuring the threats remained invisible yet psychologically present.  
+ Later on July 18, 2025, Shaun began a sustained harassment campaign spanning approximately 9.5 hours (11:55 AM - 9:36 PM), escalating to demands for my home address and explicit threats of physical and armed violence. Critically, Shaun then blocked me, an intentional act that removed my access to conversation history and notifications. Facebook advertises this before you do it. This served both to destroy evidence and perpetuate intimidation by ensuring the threats remained invisible yet psychologically present.  
 
-Evidence strongly suggests this is a coordinated attack aimed to silence my First Amendment-protected warnings to the business community regarding David Poindexter’s pattern of wage theft and business fraud.
+Evidence strongly suggests this is a coordinated attack aimed to silence my First Amendment-protected warnings to the business community regarding David Poindexter's pattern of wage theft and business fraud.
+
+**QUANTIFIED LEGAL STANDARDS:**
+- **Reasonable suspicion:** 42.1% certainty (Duke University Judicature study)
+- **Probable cause:** 49.7% certainty (Duke University Judicature study)  
+- **Beyond reasonable doubt:** 90.1% certainty (Duke University Judicature study)
 
 
 This complaint seeks **immediate emergency law enforcement intervention to protect my family from imminent physical harm**, investigate the suspected conspiracy, and **remove all firearms from both suspects through applicable legal processes**. The explicit threats of armed violence ("feel froggy"), repeated demands for my home address, and evidence of coordination create an immediate danger requiring comprehensive firearm prohibition and removal procedures.
@@ -65,14 +72,13 @@ Evidence suggests agreement between David Poindexter and Shaun Strange to commit
 - Apparent coordinated effort to silence protected commercial speech about business fraud
 - Interstate nature and systematic targeting of constitutional rights
 
-**6. RICO Conspiracy (18 U.S.C. §§ 1962(c), 1962(d))**
+**6. Potential RICO Conspiracy (18 U.S.C. §§ 1962(c), 1962(d)) - FOR INVESTIGATION**
 
-**RICO Enterprise Analysis:**
-- **Enterprise:** David Poindexter's business network including nvisonative.com and associated individuals operating in Iredell County, NC
-- **Predicate Acts:** (1) Interstate harassment/stalking (18 U.S.C. § 2261A) (2) Extortion through threats (18 U.S.C. § 875(d)) (3) Witness intimidation (18 U.S.C. § 1513)
-- **Pattern:** Coordinated use of multiple individuals across state lines to silence business fraud witnesses through criminal intimidation
-- **Continuing Nature:** Ongoing conspiracy to protect business interests through systematic criminal intimidation of critics and potential witnesses
-- **Interstate Commerce:** Electronic communications, business operations, and coordinated activity across multiple states
+**Potential RICO Enterprise Elements (requiring investigation):**
+- **Potential Enterprise:** Business network coordination between suspects across state lines
+- **Potential Predicate Acts:** Interstate harassment/stalking, extortion through threats, witness intimidation
+- **Investigation Required:** Pattern of criminal activity using business resources to silence fraud witnesses
+- **Note:** RICO charges require comprehensive investigation to establish enterprise and pattern elements beyond current evidence
 
 ### Federal Obstruction and Extortion Crimes:
 
@@ -100,6 +106,47 @@ Evidence suggests agreement between David Poindexter and Shaun Strange to commit
 
 **Federal Jurisdiction Constitutional Foundation:**
 The interstate coordination to deprive constitutional rights provides probable cause for federal jurisdiction under the Commerce Clause and 14th Amendment enforcement provisions.
+
+## FEDERAL DISABILITY RIGHTS VIOLATIONS (42 U.S.C. § 12132)
+
+### AMERICANS WITH DISABILITIES ACT TITLE II VIOLATIONS
+
+**Statutory Requirements Under Federal Law:**
+- Public entities **SHALL NOT** discriminate based on disability (42 U.S.C. § 12132 - mandatory language)
+- **MUST** make reasonable modifications to avoid discrimination
+- **MUST** distinguish disability-related behaviors from criminal conduct
+- **CANNOT** criminalize actions resulting from disability
+- **MUST** provide equal access to services and programs
+
+### AUTISM-RELATED BEHAVIORS DISCRIMINATORILY MISCHARACTERIZED
+
+**Complainant's Documented Autism-Related Behaviors:**
+- **Mirroring Communication Technique:** Well-documented autism coping mechanism used to demonstrate the social inappropriateness of the harasser's behavior - autism research confirms individuals with ASD use mirroring to navigate social situations, process information, and help others understand inappropriate conduct
+- **Direct Communication Style:** Autism-related straightforward response patterns typical of neurological differences
+- **Systematic Analysis Approach:** Detail-oriented logical thinking characteristic of autism spectrum disorder
+- **Evidence-Based Documentation:** Autism-related focus on comprehensive record-keeping and factual accuracy
+- **Literal Language Processing:** Autism-related communication differences in interpretation and response
+
+**Pataskala Police Department ADA Violations:**
+1. **Mischaracterized appropriate defensive autism behaviors as "aggressive" conduct**
+2. **Failed to recognize mirroring technique as documented autism communication strategy**
+3. **Applied neurotypical behavioral expectations without disability accommodation**
+4. **Used disability-related responses against complainant to dismiss legitimate complaint**
+5. **Denied equal access to police services based on neurological differences**
+
+### FEDERAL ADA ACCOMMODATIONS DENIED (42 U.S.C. § 12132)
+
+**Mandatory Accommodations Required Under Federal Law:**
+1. **Communication Accommodation:** Recognition of autism direct communication patterns (supported by extensive medical literature and APA diagnostic criteria)
+2. **Behavioral Accommodation:** Understanding mirroring as documented autism technique to demonstrate others' inappropriate behavior
+3. **Procedural Accommodation:** Allowing systematic, evidence-based case presentation typical of autism cognitive processing
+4. **Equal Investigation Standards:** Identical police services regardless of neurological differences
+
+**Federal ADA Enforcement Actions Required:**
+- **DOJ Civil Rights Division investigation** of systematic disability discrimination
+- **Mandated ADA compliance training** for law enforcement personnel
+- **Federal oversight** of police department policies regarding disability accommodation
+- **Individual liability** for officers who violate clearly established ADA rights
 
 ## OHIO STATE CRIMINAL VIOLATIONS
 
@@ -136,14 +183,14 @@ The interstate coordination to deprive constitutional rights provides probable c
 - **July 15, 2025 (11:01 AM & 12:23 PM):** Victim posts protected speech about wage theft to David Poindexter's Facebook timeline
 - **July 16, 2025:** Shaun Strange (NC resident) sends Facebook friend request within 24 hours
 - **July 17, 2025:** Victim accepts friend request, unaware of connection to David
-- **July 18, 2025 (11:55 AM):** Shaun initiates 10-hour harassment campaign with detailed knowledge suggesting coordination
+- **July 18, 2025 (11:55 AM):** Shaun initiates nearly 10 hours harassment campaign (~9h 41min) with detailed knowledge suggesting coordination
 - **July 18, 2025 (1:53 PM):** Victim warns David about sending harassers
 - **July 18, 2025 (2:38 PM):** **CRITICAL 45-MINUTE COORDINATION WINDOW** - Harassment escalates immediately after warning
 - **July 18, 2025 (9:18 PM):** Explicit threats of armed violence ("feel froggy")
 - **July 18, 2025 (Late Evening):** Evidence destruction through strategic blocking
 - **July 19, 2025:** Medical impact manifests with stress-induced gout attack 
 
-## COORDINATION PROOF: HARASSMENT ESCALATION ANALYSIS
+## COORDINATION SPECULATION: HARASSMENT ESCALATION ANALYSIS
 
 ### Before Warning David (July 18, 2025 - 11:55 AM to 1:53 PM):
 **Shaun's messaging pattern:** Hostile but somewhat restrained
@@ -223,6 +270,41 @@ David Poindexter's deliberate silence in response to these public posts constitu
 **5. Legal Precedent for Silence as Criminal Act:** Under conspiracy law, silence combined with benefit from others' criminal acts constitutes active participation. David's silence while benefiting from harassment designed to silence my protected speech makes him an active co-conspirator, not a passive beneficiary.
 
 This pattern of public silence combined with private intimidation coordination represents one of the most disturbing aspects of this conspiracy - the calculated use of silence as a weapon of terror and psychological manipulation.
+
+## ENHANCED CONSPIRACY EVIDENCE - STRATEGIC TARGETING OF KNOWN VULNERABILITIES
+
+### DAVID'S DOCUMENTED KNOWLEDGE OF COMPLAINANT'S PATTERNS
+
+**Established Professional Relationship:**
+- **Duration:** Multiple years of close professional collaboration
+- **Working Relationship:** Extended business partnership requiring detailed personal interaction
+- **Observable Patterns:** Any colleague working closely for years would necessarily observe communication styles, behavioral patterns, and response tendencies
+
+**Autism-Related Patterns David Would Have Observed:**
+- **Communication Style:** Direct, systematic, evidence-based approach to problem-solving
+- **Documentation Habits:** Comprehensive record-keeping and factual accuracy focus
+- **Professional Boundaries:** Clear distinction between cooperation and submission to exploitation
+- **Stress Responses:** Predictable patterns when confronted with intimidation tactics
+
+### STRATEGIC HARASSMENT DESIGN - ENHANCED PROBABLE CAUSE
+
+**Evidence of Coordinated Targeting:**
+1. **Harassment Timing:** Campaign initiated immediately following victim's public wage theft complaints
+2. **Tactical Selection:** Shaun specifically chosen for characteristics that would maximize intimidation effectiveness
+3. **Behavioral Exploitation:** Harassment appears designed around David's years of observing victim's response patterns
+4. **Escalation Strategy:** When victim's defensive responses occurred, harassment immediately intensified
+
+**Enhanced Federal Conspiracy Probable Cause (18 U.S.C. § 371):**
+- **Agreement:** David's intimate knowledge of victim's patterns combined with precisely targeted harassment suggests premeditated coordination
+- **Overt Acts:** Shaun's harassment campaign potentially designed around David's years of behavioral observations
+- **Criminal Purpose:** Interstate harassment conspiracy targeting individual with known autism-related characteristics
+
+**Enhanced Federal Disability Rights Violations:**
+- **Professional Exploitation:** Years of business relationship potentially exploited to identify and target disability-related vulnerabilities
+- **Strategic Discrimination:** Harassment potentially calculated to trigger known autism responses that would be mischaracterized by law enforcement
+- **Premeditated ADA Violations:** Possible deliberate use of observed autism-related patterns to undermine victim's credibility
+
+This intelligence significantly strengthens probable cause by demonstrating the harassment may have been sophisticated, premeditated conspiracy specifically designed to exploit disability-related characteristics observed over years of professional collaboration.
 
 ### Pattern of Criminal Behavior:
 1. **Initiation:** Unprovoked attack on legally protected speech
@@ -345,7 +427,7 @@ I have preserved the following evidence for law enforcement review:
 **1. Facebook & Messenger Chat Logs:**
 
 - Please reference attachment, or click: 
-    - [Transcript and Analysis of Shaun's Harassment via FB Messenger](transcript_and_analysis_of_shauns_harassment_via_fb_messenger.md) - with timestamps  
+    - [Transcript and Analysis of Shaun's Harassment via FB Messenger](../../transcript_and_analysis_of_shauns_harassment_via_fb_messenger.md) - with timestamps  
     - [Screen Recording of Shaun's Harassment via FB Messenger](screen_recording_of_shauns_harassment_via_fb_messenger.md)
     - [Transcript of Post Calling to Stop Harassment](transcript_of_post_calling_to_stop_harassment.md)
     - [Screen Recording of My FB Post to David Calling To Stop Harassment](screen_recording_of_my_fb_post_to_david_calling_to_stop_harassment.md) 
@@ -374,7 +456,22 @@ I have preserved the following evidence for law enforcement review:
 - **SOCIAL MEDIA CONNECTIONS ANALYSIS** across all platforms to identify potential co-conspirators
 - **PROFESSIONAL NETWORK DOCUMENTATION** including LinkedIn connections and business associations
 
-**TIME-SENSITIVE:** Suspects may attempt to delete evidence. Immediate preservation orders and forensic collection are critical.
+**CRITICAL POLICE VIDEO/BODY CAM EVIDENCE PRESERVATION & INVESTIGATION:**
+- **ALL PATASKALA POLICE DEPARTMENT VIDEO FOOTAGE** from July 28-29, 2025 including:
+  - **Body camera footage** from all officers involved in complainant interactions
+  - **Lobby/station surveillance footage** capturing complainant visits and officer behavior
+  - **Interview room recordings** (audio and video) of all complainant interactions
+  - **Dashboard camera footage** from any patrol vehicles involved
+  - **Station security footage** showing officer discussions and behavior when complainant not present
+
+**COMPREHENSIVE VIDEO INVESTIGATION REQUIRED:**
+- **Federal review and analysis** of ALL video evidence for civil rights violations
+- **Professional behavior assessment** of officers' conduct toward disabled individual
+- **Pattern analysis** of discriminatory treatment captured on video
+- **Metadata preservation** of all video files with timestamps and chain of custody
+- **Expert analysis** of autism accommodation failures documented on video
+
+**TIME-SENSITIVE:** Suspects may attempt to delete evidence. Police departments routinely delete video footage after retention periods. **IMMEDIATE PRESERVATION ORDERS AND COMPREHENSIVE VIDEO INVESTIGATION ARE CRITICAL.**
 
 
 **3. Digital Forensic Evidence:**
@@ -458,7 +555,7 @@ All evidence clearly establishes the interstate nature of this stalking and hara
 ### Federal Actions Requested:
 
 **1. IMMEDIATE FIREARM REMOVAL - TOP PRIORITY:**
-- **EMERGENCY Federal Firearm Prohibition Order** under 18 U.S.C. § 922(g)(8) for both suspects
+- **EMERGENCY Federal Firearm Prohibition Order** through protective order proceedings that would trigger 18 U.S.C. § 922(g)(8) firearm disabilities
 - **Immediate ATF coordination** for interstate firearm surrender enforcement
 - **Emergency Protection Orders** in both Ohio and North Carolina with firearm prohibition clauses
 - **Federal coordination** between Ohio and North Carolina authorities for immediate firearm removal
@@ -740,18 +837,25 @@ This complaint alleges violations of multiple federal and state statutes includi
 - **18 U.S.C. § 875(c)** (Interstate Communication of Threats) 
 - **18 U.S.C. § 371** (Conspiracy to Commit Federal Crimes)
 - **18 U.S.C. § 241** (Civil Rights Conspiracy)
+- **18 U.S.C. § 242** (Deprivation of Rights Under Color of Law)
 - **18 U.S.C. § 1513** (Witness Intimidation/Retaliation)
 - **18 U.S.C. § 875(d)** (Extortion by Threat)
-- **18 U.S.C. § 922(g)(8), § 922(d)(8)** (Federal Firearm Prohibitions)
-- **18 U.S.C. §§ 1962(c), 1962(d)** (RICO Conspiracy)
+- **18 U.S.C. § 922(g)(8)** (Federal Firearm Prohibitions for persons subject to restraining orders)
+- **42 U.S.C. § 1983** (Civil Rights - Civil Liability)
+- **42 U.S.C. § 12132** (ADA Title II - Public Entity Discrimination)
+- **34 U.S.C. § 12601** (DOJ Authority for Pattern/Practice Investigations)
+- **18 U.S.C. §§ 1962(c), 1962(d)** (RICO Conspiracy - if enterprise pattern established through investigation)
 
 ### Ohio State Statutes:
 - **Ohio Rev. Code § 2903.211** (Stalking)
 - **Ohio Rev. Code § 2917.21** (Telecommunications Harassment)
 - **Ohio Rev. Code § 2923.01** (Criminal Conspiracy)
 - **Ohio Rev. Code § 2921.03** (Intimidation)
+- **Ohio Rev. Code § 2903.214** (Protection Orders)
 - **Ohio Rev. Code § 2919.27** (Violating Protection Order)
 - **Ohio Rev. Code § 2923.13** (Having Weapons While Under Disability)
+- **Ohio Rev. Code § 4112** (Civil Rights Law)
+- **Ohio Rev. Code § 109.77** (Standards for Peace Officers)
 
 I trust that prosecutors will apply appropriate legal precedents and strategies in pursuing these charges.
 
@@ -826,6 +930,23 @@ The medical evidence of stress-induced gout and dermatological reactions provide
 
 I respectfully request that law enforcement treat this as a high-priority case requiring immediate action, given the documented threats, medical harm, interstate nature, and evidence of ongoing criminal conspiracy. The sophisticated coordination and business interests involved suggest this represents a significant threat not only to my family but to the broader principle that victims of business fraud should be able to speak publicly without fear of coordinated retaliation campaigns.
 
+## WHAT I REALLY WANT
+
+I just want this to end peacefully. If Shaun apologizes and explains why he did this, I'm willing to resolve this. But I need to know:
+
+1. **Who else was involved?** I suspect David Ponidexter may have put him up to this
+2. **Will he leave me alone?** I need his promise that he won't retaliate against me or my website nvisionativesucks.com that exposes David's CEO misconduct
+
+**Important:** I never intended any violence whatsoever. I take great offense at any suggestion otherwise. My responses were defensive - showing him how inappropriate his behavior was by mirroring it back. This response came from fear, not aggression.
+
+**Personal Statement:** I know what is in my heart. My entire life people dismiss me, feel like they know my intent, and attack me for my differences and my refusal to lay down and go away when wronged. When it comes to the safety of my family, I will not allow crude behaviors to continue - I will do all I can within legal bounds to protect them.
+
+**Clarification on Misinterpretation:** If any of my posts or actions have been misconstrued as threatening when they were innocent acts, I am willing to discuss any such interpretations and apologize for my actions causing fear due to mischaracterization.
+
+**The Problem:** Police discrimination prevents proper investigation, necessitating federal intervention to achieve justice. While the harassment incident has observably paused, the effects persist and accountability is required to prevent future incidents.
+
+**Law Enforcement Connection Concerns:** The unexpected dismissive police response makes me believe this individual may be law enforcement as well, enhancing my fears even more. His undisclosed current employment on his LinkedIn heightens this possibility.
+
 **IMMEDIATE FIREARM REMOVAL FROM BOTH SUSPECTS IS THE TOP PRIORITY** to prevent the armed confrontation that the harasser explicitly invited and the conspiracy appears designed to provoke.
 
 ---
@@ -898,11 +1019,17 @@ This complaint is submitted with the understanding that providing false informat
 
 **Respectfully submitted,**
 
+[COMPLAINANT_FULL_NAME]  
+**Ohio Resident & Protected Individual**
 
- 
-<br><br>
-**Signature & Date:** _________________________  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[COMPLAINANT_FULL_NAME]
+**Date:** July 31, 2025
+
+---
+
+**VERIFICATION:** I declare under penalty of perjury that the foregoing is true and correct to the best of my knowledge and belief.
+
+**Signature:** _________________________  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[COMPLAINANT_FULL_NAME]
 
 ---
 
