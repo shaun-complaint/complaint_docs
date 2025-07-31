@@ -1,18 +1,20 @@
-# Criminal Complaint Documentation
+# Criminal Complaint Documentation Package
 
-**Date:** July 26, 2025  
+**Federal Civil Rights Violations & Interstate Crimes**
+
+**Current Version:** Amendment 1 (July 31, 2025)  
 **Evidence Integrity:** ✅ Cryptographically Verified  
-**Public Repository:** https://github.com/shaun-complaint/complaint_docs
+**Repository Structure:** Branch-based Amendment System
 
 ## Overview
 
-This repository contains comprehensive documentation for a formal criminal complaint filed regarding interstate stalking, harassment, and suspected criminal conspiracy via electronic communications. All evidence has been cryptographically verified for legal admissibility.
+This repository documents a comprehensive federal civil rights case involving police misconduct, ADA discrimination, and interstate stalking crimes. The case has evolved from simple harassment to complex federal litigation requiring DOJ Civil Rights Division intervention.
 
 ## 🔐 Evidence Integrity Verification
 
 **CRITICAL FOR LAW ENFORCEMENT:** This repository includes a complete evidence integrity verification system that provides:
 
-- **Cryptographic Verification**: MD5/SHA256 checksums for all 34 evidence files
+- **Cryptographic Verification**: MD5/SHA256 checksums for all 62 evidence files
 - **Chain of Custody**: Complete documentation of evidence handling
 - **Forensic Standards**: Meets digital forensics requirements for court proceedings
 - **Validation Tools**: Scripts for independent verification by law enforcement
@@ -36,9 +38,45 @@ cat evidence_integrity_verification.md
 cat scripts/README.md
 ```
 
-## Primary Document
+## Repository Structure & Amendment Strategy
 
-📋 **[Criminal Complaint](./criminal_complaint.md)** - The main formal complaint document filed with law enforcement agencies
+This repository uses a **branch-based amendment system** that preserves original filings while enabling comprehensive case development:
+
+```
+Main Branch: Original filing (July 26, 2025) - NEVER MODIFIED
+├── criminal_complaint.md (Original interstate stalking complaint)
+└── Original supporting evidence files
+
+Amendment Branch: enhancement/ada-violations-video-investigation  
+└── Amendment_1_Filing_Package/ (Complete federal civil rights package)
+    ├── 01_Primary_Complaints/ (FBI, DOJ, Ohio AG filings)
+    ├── 02_Supporting_Evidence/ (Medical, harassment transcripts)  
+    ├── 03_Legal_Analysis/ (Police misconduct, Ohio statutes)
+    ├── 04_Digital_Evidence/ (Forensic verification, images)
+    └── 05_PROCEDURAL_DOCUMENTS/ (Agent contacts, procedures)
+```
+
+**Amendment Strategy:** Each major case development creates a new amendment package while preserving original filing integrity. See **[AMENDMENT_WORKFLOW.md](AMENDMENT_WORKFLOW.md)** for complete technical details.
+
+## Case Evolution: Interstate Stalking → Federal Civil Rights
+
+**Original Case (v1.0):** Interstate stalking and harassment  
+**Amendment 1 (v2.0):** Federal civil rights violations with:
+- **Police Misconduct** (18 U.S.C. § 242, 42 U.S.C. § 1983)
+- **ADA Violations** (42 U.S.C. § 12132) - Autism discrimination
+- **DOJ Pattern/Practice** (34 U.S.C. § 12601) - Systemic police violations  
+- **Interstate Stalking** (18 U.S.C. § 2261A) - Original harassment case
+
+## Primary Documents
+
+**Original Filing (Main Branch):**
+- **[Criminal Complaint](criminal_complaint.md)** - Original interstate stalking complaint (July 26, 2025)
+
+**Amendment 1 - Federal Civil Rights Package:**
+- **[Federal Criminal Complaint](Amendment_1_Filing_Package/01_Primary_Complaints/amended_criminal_complaint_with_mirroring_analysis.md)** - FBI/federal court filing
+- **[DOJ Civil Rights Complaint](Amendment_1_Filing_Package/01_Primary_Complaints/doj_civil_rights_complaint.md)** - Police misconduct & ADA violations  
+- **[Ohio Attorney General Complaint](Amendment_1_Filing_Package/01_Primary_Complaints/ohio_attorney_general_complaint.md)** - State oversight request
+- **[Enhanced Medical Documentation](Amendment_1_Filing_Package/02_Supporting_Evidence/medical_documentation_of_stress-induced_health_effects.md)** - Comprehensive psychological impact testimony including institutional distrust and federal filing retaliation fears
 
 ## Supporting Documentation
 
@@ -69,7 +107,7 @@ cat scripts/README.md
 - **[links_to_shaun_stranges_linkedin_profile_showing_north_carolina_and_ohio_locations.md](./links_to_shaun_stranges_linkedin_profile_showing_north_carolina_and_ohio_locations.md)** - LinkedIn URL references
 
 #### 🏥 Medical Impact Documentation
-- **[medical_documentation_of_stress-induced_health_effects.md](./medical_documentation_of_stress-induced_health_effects.md)** - Documented physical harm from harassment
+- **[medical_documentation_of_stress-induced_health_effects.md](./medical_documentation_of_stress-induced_health_effects.md)** - Original medical documentation: stress-induced gout and hives with scientific literature support
 
 #### 📷 Visual Evidence Files
 **Social Media Screenshots (`img/` directory):**
@@ -131,41 +169,22 @@ cat scripts/README.md
 Before printing or sharing any documents, use find/replace to substitute these keys with actual redacted values `[redacted]`:
 
 #### Complainant Information
-- `Joshua J. Thomas` → Full legal name
-- `[COMPLAINANT_FIRST_NAME]` → First name only
-- `[COMPLAINANT_FIRST_POSSESSIVE]` → First name possessive (e.g., "Josh's")
-- `1520 McKinney Ln. Pataskala, OH 43062` → Complete address
-- `614-206-4906` → Phone number
-- `josh@tertiaryit.com` → Email address
-
-#### Family/Associate Information  
-- `[SPOUSE_NAME]` → Spouse's name
-- `[SPOUSE_FIRST_NAME]` → Spouse's first name only
-- `[FAMILY_MEMBER_NAME]` → Other family member names
-
-#### Location Information
-- `[HOME_ADDRESS]` → Specific home address
-- `[WORK_ADDRESS]` → Work/business address
-- `[CITY_STATE]` → City and state (when specific)
-- `[ZIP_CODE]` → Postal code
-
-#### Account/Identification Information
-- `[ACCOUNT_NUMBER]` → Any account numbers
-- `[LICENSE_PLATE]` → Vehicle license plates
-- `[SSN_PARTIAL]` → Social security number (partial)
-- `[DRIVER_LICENSE]` → Driver's license number
+- `[COMPLAINANT_FULL_NAME]` → Full legal name
+- `[COMPLAINANT_ADDRESS]` → Complete address
+- `[COMPLAINANT_PHONE]` → Phone number
+- `[COMPLAINANT_EMAIL]` → Email address
 
 ### Usage Instructions
 
 **FOR LAW ENFORCEMENT SUBMISSION:**
 Before generating final PDFs or legal documents, use global find/replace to substitute redaction keys with **ACTUAL PERSONAL INFORMATION**:
 
-**Required Substitutions Example:**
+**Required Substitutions for Privacy:**
 ```
-Joshua J. Thomas → John Doe Smith (actual legal name)
-614-206-4906 → (555) 123-4567 (actual phone number)
-[HOME_ADDRESS] → 123 Main Street, City, State 12345 (actual address)
-josh@tertiaryit.com → john.smith@email.com (actual email)
+[COMPLAINANT_FULL_NAME] → [COMPLAINANT_FULL_NAME]
+[COMPLAINANT_PHONE] → [COMPLAINANT_PHONE]
+[COMPLAINANT_ADDRESS] → [COMPLAINANT_ADDRESS]
+[COMPLAINANT_EMAIL] → [COMPLAINANT_EMAIL]
 ```
 
 **⚠️ CRITICAL SECURITY:** 
@@ -182,4 +201,11 @@ This documentation is maintained for legal proceedings and law enforcement purpo
 
 
 ---
-*Last Updated: July 26, 2025*
+
+## Version History
+
+- **v1.0** (July 26, 2025): Original interstate stalking complaint
+- **v2.0** (July 31, 2025): **Amendment 1** - Federal civil rights violations, police misconduct, ADA discrimination, DOJ intervention requests
+
+---
+*Last Updated: July 31, 2025*
